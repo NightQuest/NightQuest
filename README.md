@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Amelia, and I'm an engineer. I love programming and reverse engineering.
+
+If I don't have music playing, I'm probably asleep.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NightQuest&show_icons=true&hide=contribs&theme=tokyonight)
+
 <!--
 **NightQuest/NightQuest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
